@@ -144,14 +144,27 @@ Ongoing 2025 project.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChathuraHIDD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuraHIDD&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=ChathuraHIDD&theme=tokyonight&hide_border=true" alt="GitHub streak" width="90%" />
+
+<p>
+  <img src="https://img.shields.io/badge/Most%20Used-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
 </div>
 
-> If a card above shows an error, GitHub's shared stats service is temporarily rate-limited — it recovers on its own, no action needed here.
+<!--
+The animated stats/top-langs cards from github-readme-stats.vercel.app are omitted here on purpose:
+that shared instance is currently DEPLOYMENT_PAUSED (a billing issue on the maintainer's Vercel account,
+not something fixable from this repo). To bring the live animated cards back, deploy your own free copy:
+1. Go to https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+2. Click "Deploy" and sign in with GitHub (takes ~2 minutes, no cost)
+3. Replace "github-readme-stats.vercel.app" below with your own *.vercel.app domain:
+<img height="165" src="https://YOUR-OWN-DEPLOY.vercel.app/api?username=ChathuraHIDD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://YOUR-OWN-DEPLOY.vercel.app/api/top-langs/?username=ChathuraHIDD&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+-->
 
 <br />
 
